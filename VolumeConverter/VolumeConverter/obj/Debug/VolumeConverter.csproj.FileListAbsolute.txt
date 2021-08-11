@@ -1,0 +1,10 @@
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.exe.config
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.exe
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\bin\Debug\VolumeConverter.pdb
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.AssemblyReference.cache
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.volumeConverter.resources
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.Properties.Resources.resources
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.GenerateResource.cache
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.csproj.CoreCompileInputs.cache
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.exe
+C:\Users\ayaari\source\repos\VolumeConverter\VolumeConverter\obj\Debug\VolumeConverter.pdb
