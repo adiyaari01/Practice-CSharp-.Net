@@ -1,0 +1,10 @@
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\bin\Debug\myPaint.exe.config
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\bin\Debug\myPaint.exe
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\bin\Debug\myPaint.pdb
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.csproj.AssemblyReference.cache
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.Form1.resources
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.Properties.Resources.resources
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.csproj.GenerateResource.cache
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.csproj.CoreCompileInputs.cache
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.exe
+C:\Users\ayaari\source\repos\C# Udemy Course\myPaint\myPaint\obj\Debug\myPaint.pdb
